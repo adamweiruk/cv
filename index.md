@@ -1,13 +1,12 @@
 # Adam Weir
 
+Computer Science graduate from Glasgow.
+
 2/1, 8 White Street, Glasgow G11 5RT
 
 +44 7547 563702 | <adamintain@icloud.com>
 
-Computer Science graduate from Glasgow.
-
 ---
-
 
 ## Education
 
