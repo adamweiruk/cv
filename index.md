@@ -2,14 +2,7 @@
 
 Computer Science graduate from Glasgow.
 
-2/1, 8 White Street, Glasgow G11 5RT
-
-+44 7547 563702
-
-<adamintain@icloud.com>
-
 ---
-
 
 ## Education
 
@@ -74,3 +67,11 @@ Developed front-end web components using TypeScript & React, prepared unstructur
 - German, A1.2
 - Dutch, A2
 - French, A1.1
+
+---
+
+2/1, 8 White Street, Glasgow G11 5RT
+
++44 7547 563702
+
+<adamintain@icloud.com>
