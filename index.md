@@ -1,16 +1,20 @@
 # Adam Weir
+2/1, 8 White Street, Glasgow G11 5RT
+
 Computer Science graduate from Glasgow.
 
+---
+
 ## Education
-### Robert Gordon University, BSc (Hons) Computer Science, 2017-2022, 1:1
-Dissertation described an automatic cyanobacteria cell counter that achieved count accuracies comparable to the state of the art.
+### Robert Gordon University, BSc (Hons) Computer Science, 2017-2022
+Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
 - Computer Vision
 - Advanced Artificial Intelligence
 - Languages & Compilers
 - Big Data Analytics
 
-### Erasmushogeschool Brussel, BSc Multimedia & Communication Technology, 2019-2020
-Studied for 2 semesters at EhB in Brussels. Undertook an internship at the University in semester 2.
+### Erasmushogeschool Brussel, Bachelor Multimedia & Creative Technologies, 2019-2020
+Studied abroad for 2 semesters with Erasmus+.
 - Web II (full-stack web development)
 - Development V (data visualisation)
 - Design V (UX)
@@ -25,26 +29,26 @@ Studied for 2 semesters at EhB in Brussels. Undertook an internship at the Unive
 
 ## Relevant Experience
 ### Junior Data Scientist -- Aisus Offshore -- 2023
-Develop an API for image classification using Python & PyTorch.
+Supporting the development of an API for image classification using Python & PyTorch.
 
-### Research Assistant • Robert Gordon University • 2022
-Support the development of an image classification solution using Python & PyTorch.
+### Research Assistant -- Robert Gordon University -- 2022
+Supported the development of an image classification solution using Python & PyTorch.
 
 ### IT Specialist -- Fennex -- 2021-22
-Develop front-end web components using TypeScript & React, prepare unstructured data for storage in Microsoft SQL Server databases, administrate SharePoint sites.
+Developed front-end web components using TypeScript & React, prepared unstructured data for MS SQL Server, administrated SharePoint sites.
 
 ## Other Experience
-- Seasonal Worker • Inverawe Smokehouses • 2022
-- Animator • Robert Gordon University • 2022
-- Resident Assistant • Robert Gordon University • 2020-2021
-- Marketing Intern • Erasmushogeschool Brussel • 2020
-- Kitchen Assistant • Carnegie Club at Skibo Castle • 2018-19
-- Chilled Colleague • ASDA • 2015-16
-- Paperboy • R.S. McColls • 2012-15
+- Seasonal Worker -- Inverawe Smokehouses -- 2022
+- Animator -- Robert Gordon University -- 2022
+- Resident Assistant -- Robert Gordon University -- 2020-2021
+- Marketing Intern -- Erasmushogeschool Brussel -- 2020
+- Kitchen Assistant -- Carnegie Club at Skibo Castle -- 2018-19
+- Chilled Colleague -- ASDA -- 2015-16
+- Paperboy -- R.S. McColls -- 2012-15
 
-## Additional Info
-- Ex-member of university societies: climbing, ice skating.
-- Keen athlete & cyclist.
-- Clean UK driving licence.
+## Languages
+- German, A1.2
+- Dutch, A2
+- French, A1.1
 
 adamintain@icloud.com -- +44 7547 563702
