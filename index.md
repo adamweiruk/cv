@@ -4,13 +4,16 @@ Computer Science graduate from Glasgow.
 
 2/1, 8 White Street, Glasgow G11 5RT
 
-+44 7547 563702 | <adamintain@icloud.com>
++44 7547 563702
+
+<adamintain@icloud.com>
 
 ---
 
+
 ## Education
 
-### Robert Gordon University, BSc (Hons) Computer Science, 2017-2022
+### Robert Gordon University, BSc (Hons) Computer Science, 2017--2022
 
 Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
 
@@ -19,7 +22,7 @@ Graduated with First-Class Honours, earning the David Davidson Award for Excelle
 - Languages & Compilers
 - Big Data Analytics
 
-### Erasmushogeschool Brussel, Bachelor Multimedia & Creative Technologies, 2019-2020
+### Erasmushogeschool Brussel, Bachelor Multimedia & Creative Technologies, 2019--2020
 
 Studied abroad for 2 semesters with Erasmus+.
 
@@ -44,7 +47,7 @@ Studied abroad for 2 semesters with Erasmus+.
 
 ## IT Experience
 
-### Junior Data Scientist, Aisus Offshore, 2023-
+### Junior Data Scientist, Aisus Offshore, 2023--
 
 Supporting the development of an API for image classification using Python & PyTorch.
 
@@ -52,7 +55,7 @@ Supporting the development of an API for image classification using Python & PyT
 
 Supported the development of an image classification solution using Python & PyTorch.
 
-### IT Specialist, Fennex, 2021-22
+### IT Specialist, Fennex, 2021--22
 
 Developed front-end web components using TypeScript & React, prepared unstructured data for MS SQL Server, administrated SharePoint sites.
 
@@ -60,11 +63,11 @@ Developed front-end web components using TypeScript & React, prepared unstructur
 
 - Seasonal Worker, Inverawe Smokehouses, 2022
 - Animator, Robert Gordon University, 2022
-- Resident Assistant, Robert Gordon University, 2020-2021
+- Resident Assistant, Robert Gordon University, 2020--2021
 - Marketing Intern, Erasmushogeschool Brussel, 2020
-- Kitchen Assistant, Carnegie Club at Skibo Castle, 2018-19
-- Chilled Colleague, ASDA, 2015-16
-- Paperboy, R.S. McColls, 2012-15
+- Kitchen Assistant, Carnegie Club at Skibo Castle, 2018--19
+- Chilled Colleague, ASDA, 2015--16
+- Paperboy, R.S. McColls, 2012--15
 
 ## Languages
 
